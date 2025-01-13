@@ -20,5 +20,5 @@ This project is a simple web application that displays product cards using data 
   - Fetching data from the API.
   - Rendering product cards.
   - Handling CRUD operations.
-- **`style.css`**: CSS styles for a modern and clean card layout.
+-  CSS styles for a modern and clean card layout.
 
